@@ -1,68 +1,68 @@
-City_ID,City,Country,Max Temp,Lat,Lng,Hotel Name
-10,Tazovskiy,RU,18.41,67.4667,78.7,
-21,Dikson,RU,13.1,73.5069,80.5464,
-29,Lyuban,BY,36.55,52.7985,28.0048,
-32,Svetlyy,RU,39.25,54.675,20.1347,
-33,Paamiut,GL,29.03,61.994,-49.6678,
-62,Nanortalik,GL,32.14,60.1432,-45.2371,
-72,Maarianhamina,AX,39.06,60.0973,19.9348,
-82,Tasiilaq,GL,37.62,65.6145,-37.6368,
-85,Verkhnyaya Maksakovka,RU,32.02,61.635,50.9674,
-86,Ilulissat,GL,17.62,69.2167,-51.1,
-87,Saint Anthony,US,38.93,45.0205,-93.218,
-99,Qaqortoq,GL,33.53,60.7167,-46.0333,
-107,Narsaq,GL,36.34,60.9167,-46.05,
-122,Barraute,CA,32.27,48.4335,-77.6328,
-125,Loukhi,RU,31.84,66.0764,33.0381,
-133,Vardo,NO,39.13,70.3705,31.1107,
-137,Saint-Augustin,CA,32.72,51.226,-58.6502,
-140,Longyearbyen,SJ,26.44,78.2186,15.6401,
-145,Ostrovnoy,RU,30.88,68.0531,39.5131,
-151,Khislavichi,RU,35.42,54.1871,32.1582,
-163,Agirish,RU,27.55,61.9247,63.0231,
-166,Umea,SE,39.13,63.8284,20.2597,
-170,Pangnirtung,CA,5.0,66.1451,-65.7125,
-172,Talnakh,RU,16.68,69.4865,88.3972,
-177,Maniitsoq,GL,24.82,65.4167,-52.9,
-180,Sierpc,PL,39.88,52.8568,19.6691,
-187,Puteyets,RU,11.89,65.1716,57.091,
-190,Nuuk,GL,29.01,64.1835,-51.7216,
-193,Khalkhal,IR,34.32,37.6189,48.5258,
-194,Iqaluit,CA,5.7,63.7506,-68.5145,
-202,Elliot Lake,CA,32.23,46.3834,-82.6331,
-207,Chapais,CA,31.78,49.7834,-74.8492,
-213,Hammerfest,NO,39.65,70.6634,23.6821,
-219,Sarny,UA,37.8,51.338,26.6019,
-227,Vossevangen,NO,39.29,60.623,6.4229,
-234,Igrim,RU,25.21,63.1906,64.4162,
-247,Kajaani,FI,37.45,64.2273,27.7285,
-248,Marquette,US,26.78,46.5333,-87.6335,
-258,Thompson,CA,22.3,55.7435,-97.8558,
-263,Navahrudak,BY,36.45,53.6,25.8333,
-269,Salacgriva,LV,39.04,57.7536,24.3581,
-271,Moose Factory,CA,30.18,51.2585,-80.6094,
-276,Aasiaat,GL,11.26,68.7098,-52.8699,
-290,Leshukonskoye,RU,21.81,64.8989,45.7622,
-299,Minsk,BY,35.35,53.9,27.5667,
-321,Verkhnyaya Inta,RU,17.02,65.9811,60.3094,
-323,Berlevag,NO,39.0,70.8578,29.0864,
-326,Kanashevo,RU,36.16,55.2169,62.0634,
-327,Sisimiut,GL,22.69,66.9395,-53.6735,
-330,Muhos,FI,37.18,64.808,25.9931,
-357,Krasnovishersk,RU,24.13,60.4078,57.082,
-358,Noyabrsk,RU,23.43,63.1994,75.4507,
-369,Mehamn,NO,39.0,71.0357,27.8492,
-383,Mezen,RU,24.84,65.8522,44.24,
-392,Surgut,RU,32.18,61.25,73.4167,
-433,Ionia,US,39.4,42.9873,-85.0711,
-480,Yar-Sale,RU,14.83,66.8333,70.8333,
-483,Goderich,CA,36.91,43.7501,-81.7165,
-495,Suoyarvi,RU,27.99,62.0833,32.35,
-506,Iskateley,RU,8.24,67.6803,53.1512,
-510,Naryan-Mar,RU,8.58,67.6713,53.087,
-512,Shemursha,RU,38.35,54.8866,47.5189,
-533,Lokosovo,RU,32.59,61.1333,74.8167,
-540,Storforshei,NO,39.65,66.4043,14.5233,
-549,Blagoyevo,RU,20.64,63.3667,47.9167,
-571,Normandin,CA,37.53,48.8333,-72.5321,
-575,Ugra,RU,35.1,54.7777,34.3267,
+Hotel_ID,Hotel_ID,City_ID,City,Country,Max Temp,Lat,Lng,Hotel Name
+0,0,10,Tazovskiy,RU,18.41,67.4667,78.7,TazHostel
+1,1,21,Dikson,RU,13.1,73.5069,80.5464,
+2,2,29,Lyuban,BY,36.55,52.7985,28.0048,"Gostinitsa ""Oressa"""
+3,3,32,Svetlyy,RU,39.25,54.675,20.1347,"Gostinitsa-Kafe, Alena"
+4,4,33,Paamiut,GL,29.03,61.994,-49.6678,Pistut
+5,5,62,Nanortalik,GL,32.14,60.1432,-45.2371,
+6,6,72,Maarianhamina,AX,39.06,60.0973,19.9348,Park Alandia Hotel
+7,7,82,Tasiilaq,GL,37.62,65.6145,-37.6368,The Red House
+8,8,85,Verkhnyaya Maksakovka,RU,32.02,61.635,50.9674,Baza Otdyha Maybyr
+9,9,86,Ilulissat,GL,17.62,69.2167,-51.1,Hotel Arctic
+10,10,87,Saint Anthony,US,38.93,45.0205,-93.218,"Holiday Inn Express Roseville-St. Paul, an IHG Hotel"
+11,11,99,Qaqortoq,GL,33.53,60.7167,-46.0333,Siniffik Inn
+12,12,107,Narsaq,GL,36.34,60.9167,-46.05,Sleep In Narsaq
+13,13,122,Barraute,CA,32.27,48.4335,-77.6328,Auberge La Fille d'à côté
+14,14,125,Loukhi,RU,31.84,66.0764,33.0381,Хостел Северяночка
+15,15,133,Vardo,NO,39.13,70.3705,31.1107,Vardø Hotel AS
+16,16,137,Saint-Augustin,CA,32.72,51.226,-58.6502,
+17,17,140,Longyearbyen,SJ,26.44,78.2186,15.6401,"Radisson Blu Polar Hotel, Spitsbergen"
+18,18,145,Ostrovnoy,RU,30.88,68.0531,39.5131,
+19,19,151,Khislavichi,RU,35.42,54.1871,32.1582,Stolik Na Gorke
+20,20,163,Agirish,RU,27.55,61.9247,63.0231,
+21,21,166,Umea,SE,39.13,63.8284,20.2597,Hotel Avenue | ProfilHotels
+22,22,170,Pangnirtung,CA,5.0,66.1451,-65.7125,Kilabuk Lodge
+23,23,172,Talnakh,RU,16.68,69.4865,88.3972,Talnakh Hotel
+24,24,177,Maniitsoq,GL,24.82,65.4167,-52.9,Hotel Heilmann Lyberth
+25,25,180,Sierpc,PL,39.88,52.8568,19.6691,"Bar ""MaxiM"" - Restauracja, Catering, Sale Bankietowe, Hotel"
+26,26,187,Puteyets,RU,11.89,65.1716,57.091,"Sot ""Agrarnik"""
+27,27,190,Nuuk,GL,29.01,64.1835,-51.7216,Vandrehuset
+28,28,193,Khalkhal,IR,34.32,37.6189,48.5258,Khalkhal Tourist Hotel
+29,29,194,Iqaluit,CA,5.7,63.7506,-68.5145,Frobisher Inn
+30,30,202,Elliot Lake,CA,32.23,46.3834,-82.6331,Paris Plaza
+31,31,207,Chapais,CA,31.78,49.7834,-74.8492,Hôtel Opémiska
+32,32,213,Hammerfest,NO,39.65,70.6634,23.6821,Skytterhuset
+33,33,219,Sarny,UA,37.8,51.338,26.6019,Luxury Square
+34,34,227,Vossevangen,NO,39.29,60.623,6.4229,Fleischer's Hotel
+35,35,234,Igrim,RU,25.21,63.1906,64.4162,Obshchezhitiye Uchebno-Proizvodstvennogo Tsentra
+36,36,247,Kajaani,FI,37.45,64.2273,27.7285,Original Sokos Hotel Valjus
+37,37,248,Marquette,US,26.78,46.5333,-87.6335,Al Quaal Lodge
+38,38,258,Thompson,CA,22.3,55.7435,-97.8558,Burntwood Hotel
+39,39,263,Navahrudak,BY,36.45,53.6,25.8333,Hotel Grazhina
+40,40,269,Salacgriva,LV,39.04,57.7536,24.3581,Kapteiņu Osta
+41,41,271,Moose Factory,CA,30.18,51.2585,-80.6094,Moosonee Lilypad
+42,42,276,Aasiaat,GL,11.26,68.7098,-52.8699,Hotel Aasiaat Sømandshjem
+43,43,290,Leshukonskoye,RU,21.81,64.8989,45.7622,Pryalitsa Hostel
+44,44,299,Minsk,BY,35.35,53.9,27.5667,Minsk Hotel
+45,45,321,Verkhnyaya Inta,RU,17.02,65.9811,60.3094,
+46,46,323,Berlevag,NO,39.0,70.8578,29.0864,Kvitbrakka
+47,47,326,Kanashevo,RU,36.16,55.2169,62.0634,Klim
+48,48,327,Sisimiut,GL,22.69,66.9395,-53.6735,Hotel Sisimiut
+49,49,330,Muhos,FI,37.18,64.808,25.9931,Montta - active camping / campsite Montan
+50,50,357,Krasnovishersk,RU,24.13,60.4078,57.082,Vishera hotel
+51,51,358,Noyabrsk,RU,23.43,63.1994,75.4507,Hotel Uyutnaya
+52,52,369,Mehamn,NO,39.0,71.0357,27.8492,Mehamn Arctic Hotel AS
+53,53,383,Mezen,RU,24.84,65.8522,44.24,Gostevoy Dom Everest
+54,54,392,Surgut,RU,32.18,61.25,73.4167,Business Hotel
+55,55,433,Ionia,US,39.4,42.9873,-85.0711,American Inn & Suites
+56,56,480,Yar-Sale,RU,14.83,66.8333,70.8333,Yalemd
+57,57,483,Goderich,CA,36.91,43.7501,-81.7165,Harmony Inn
+58,58,495,Suoyarvi,RU,27.99,62.0833,32.35,Mini-Hotel Comfort
+59,59,506,Iskateley,RU,8.24,67.6803,53.1512,Hostel Agat
+60,60,510,Naryan-Mar,RU,8.58,67.6713,53.087,Hostel Agat
+61,61,512,Shemursha,RU,38.35,54.8866,47.5189,"Gostinitsa ""Shemursha"""
+62,62,533,Lokosovo,RU,32.59,61.1333,74.8167,
+63,63,540,Storforshei,NO,39.65,66.4043,14.5233,Anne Berit Sætermo
+64,64,549,Blagoyevo,RU,20.64,63.3667,47.9167,
+65,65,571,Normandin,CA,37.53,48.8333,-72.5321,Chambres MB Normandin (Lac St -Jean)
+66,66,575,Ugra,RU,35.1,54.7777,34.3267,Gostinichnyy Kompleks Vizit
