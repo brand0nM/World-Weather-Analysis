@@ -1,9 +1,15 @@
 # Adding config.py file.
 config.py
 
+
 # Otherfiles
+.DS_store
 API_practice.ipynb
 random_numbers.ipynb
+JSON_request_methods.png
+Nearby_Search_1.png
+Nearby_Search_2.png
+Nearby_Search_3.png
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
